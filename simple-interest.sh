@@ -11,7 +11,7 @@ echo "Enter time period (in years):"
 read period
 
 #Calculate simple interest
-interest=(echo "$principal * $roi * $period) / 100" | bc)
+interest=$(echo "($principal * $roi * $period) / 100" | bc)
 
 #Display result
 echo "Simple interest is: $interest"
