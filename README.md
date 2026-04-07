@@ -47,7 +47,7 @@ sudo apt install git -y
 * Configure GitHub identity:
 ```bash
   git config --global user.name "EchoAP"
-  git config --global user.email "abstractterms@tuta.io"
+  git config --global user.email "xxxxxxxxxxxxx@tuta.io"
 ```
 
 * Test:
