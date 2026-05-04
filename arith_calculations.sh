@@ -16,7 +16,7 @@ then
 echo "The sum is less than the product."
 elif [ $sum -eq $product ]
 then
-echo "Them sum is equal to the product."
+echo "The sum is equal to the product."
 elif [ $sum -gt $product ]
 then 
 echo "The sum is greater than the product."
