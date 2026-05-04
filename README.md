@@ -1,5 +1,5 @@
   ## Overview
-Hands-on Linux exercises completed while studying Linux Foundation courses.
+Hands-on technical work completed while building Linux fluency and Python scripting (in progress) skills through Linux Foundation and Coursera coursework, and independent practice.
 
 This repository contains:
 - Bash scripts
@@ -8,17 +8,23 @@ This repository contains:
 - Networking command practice
 - Notes on system administration concepts
 
+## Purpose
+To document hands-on learning in scripting, Linux system administration, and DevOps tooling — and to demonstrate practical command-line and environment setup experience.
+
 ## Environment
 - Windows 11
 - WSL2 (Ubuntu)
 - Git for version control
 
-## Purpose
-To build practical Linux fluency and demonstrate hands-on experience with command-line operations and basic system administration.
+## Repository Contains:
+Scripts 
+- Bash scripts  
+  - simple_interest.sh         - Calculates simple interest from user-provided principal, rate, and time period
+  - arith_calculations.sh      - Sum and product calculator with conditional comparison
+  - conditional_script.sh      - Yes/no prompt with branching output and input validation
+- Python scripts (in progress)
 
-## Structure
-scripts/ - Bash automation scripts  
-notes/ - Concept summaries and command references  
+Notes - Concept summaries and command references  
 
   ## Initial Environment Setup
 
@@ -135,7 +141,7 @@ sudo mv ./kind /usr/local/bin/kind
 
    ## Chapter 5-7 - Graphical Interface: System Configuration & Applications
    - Attempted GNOME/Xfce installation (skipped - not needed for WSL)
-   - Encountered graphical erros - uninstalled
+   - Encountered graphical errors - uninstalled
    - Focused on command line instead
    
    ## Chapter 8, 9 - Command Line Operations
