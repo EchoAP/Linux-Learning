@@ -1,4 +1,8 @@
 #!/bin/bash
+# Arithmetic Operations — Bash Script
+# Accepts two integers as user input and calculates their sum and product.
+# Compares the two results and outputs which value is greater, or confirms equality.
+# Demonstrates: user input, arithmetic operations, and conditional logic in bash.
 
 echo -n "Enter an integer: "
 read n1
