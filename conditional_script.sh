@@ -1,4 +1,8 @@
 #!/bin/bash
+# Conditional Logic — Bash Script
+# Prompts the user for a yes/no response and branches output based on their input.
+# Includes input validation and a fallback message for unexpected responses.
+# Demonstrates: user input, if/elif/else conditional branching, and basic error handling in bash.
 
 echo 'Are you enjoying this course so far?'
 echo -n "Enter \"y\" for yes, \"n\" for no."
